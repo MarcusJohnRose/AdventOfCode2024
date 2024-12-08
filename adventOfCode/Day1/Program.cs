@@ -2,7 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 
-class day1
+class Program
 {
     static void Main(string[] args)
     {
@@ -24,9 +24,12 @@ class day1
         }
         
         
+        int ListSimilarityScore = similarityScore(leftNumbers, rightNumbers);
+        
         // Console.WriteLine("Left Numbers: " + string.Join(", ", leftNumbers));
         // Console.WriteLine("Right Numbers: " + string.Join(", ", rightNumbers));
         Console.WriteLine($"Total Difference: {totalDifference}");
+        Console.WriteLine($"SimilarityScore: {ListSimilarityScore}");
     }
 
     /// <summary>
@@ -117,6 +120,38 @@ class day1
         {
             return leftNumber - rightNumber;
         }
+    }
+
+    static int findOccuranceCount(int leftNumber, List<int> rightNumbers)
+    {
+        int Occurancecount = 0;
+        foreach (int rightnumber in rightNumbers)
+        {
+            if (leftNumber == rightnumber)
+            {
+                Occurancecount++;
+            }
+            else if (rightnumber > leftNumber)
+            {
+                return Occurancecount;
+            }
+
+        }
+        return Occurancecount;
+            
+        
+    }
+
+    static int similarityScore(List<int> leftNumbers, List<int> rightNumbers)
+    {
+        int NumberSimilarityscore = 0;
+
+        foreach (int leftNumber in leftNumbers)
+        {
+            int occuranceCount = findOccuranceCount(leftNumber, rightNumbers);
+            NumberSimilarityscore += leftNumber * occuranceCount; 
+        }
+        return NumberSimilarityscore;
     }
 }
  
