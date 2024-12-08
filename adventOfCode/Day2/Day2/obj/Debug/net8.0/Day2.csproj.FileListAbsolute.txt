@@ -1,0 +1,15 @@
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/Day2.AssemblyInfoInputs.cache
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/Day2.AssemblyInfo.cs
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/Day2.csproj.CoreCompileInputs.cache
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/Day2.sourcelink.json
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/bin/Debug/net8.0/Day2
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/bin/Debug/net8.0/Day2.deps.json
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/bin/Debug/net8.0/Day2.runtimeconfig.json
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/bin/Debug/net8.0/Day2.dll
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/bin/Debug/net8.0/Day2.pdb
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/Day2.dll
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/refint/Day2.dll
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/Day2.pdb
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/Day2.genruntimeconfig.cache
+/home/marcus/RiderProjects/adventOfCode/adventOfCode/Day2/Day2/obj/Debug/net8.0/ref/Day2.dll
