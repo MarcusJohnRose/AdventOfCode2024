@@ -1,6 +1,6 @@
 # My Awesome Project
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Banner)
+![Project Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522background%2Btemplate%2522&psig=AOvVaw3F2hvij-b0IdoyrTWAsCfj&ust=1741504737391000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjt5Ov4-YsDFQAAAAAdAAAAABAE)
 
 This is a **demo project** to showcase how a project README is structured. It demonstrates the use of Markdown and how to include images, links, and other content types in your README.
 
