@@ -7,6 +7,7 @@ This is a **demo project** to showcase how a project README is structured. It de
 ## Table of Contents
 
 - [About](#about)
+- [Demo Link](#demo-link)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,6 +17,11 @@ This is a **demo project** to showcase how a project README is structured. It de
 ## About
 
 This project is designed to help you get started with your web development journey. It's built using Django and React, and it's perfect for those looking to learn how to build full-stack applications.
+
+## Demo Link
+
+Check out the live demo here:  
+🔗 [Live Demo](https://your-demo-url.com)
 
 ## Features
 
