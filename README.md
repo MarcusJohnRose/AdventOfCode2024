@@ -1,4 +1,5 @@
 # My Awesome Project
+<!-- STATUS: ✅ -->
 
 ![Project Banner](https://media.istockphoto.com/id/1441165170/vector/finance-background.jpg?s=1024x1024&w=is&k=20&c=VoSepnVJTLwXkLhtdDulrocQ96fSCopI2JSXFDbOtP0=)
 
